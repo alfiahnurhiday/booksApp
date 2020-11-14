@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">booksApp</string>
+    <string name="edit_query">Masukkan nama buku!</string>
+    <string name="button_search">Search</string>
+    <string name="text1">Judul Buku</string>
+    <string name="text2">Nama Penulis Buku</string>
+</resources>
